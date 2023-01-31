@@ -37,7 +37,7 @@ Rodar a aplicação
 
 Olhar documentação Swagger em http://localhost:8080/swagger-ui/index.html#/
 
-Realizar o funcionamento dos endpoints de acordo com a documentação
+Realizar o funcionamento dos endpoints de acordo com a documentação.
 
 
 
