@@ -1,8 +1,8 @@
-# desafioseasolutions
-Desafio Sea Solutions
+#
+Projeto Java + Gradle
 
 
--Descrição do seu projeto - Desafio Sea Solutions:
+-Descrição do seu projeto - =
 
 API REST com 3 entidades : SETOR, CARGO, TRABALHADOR
 
